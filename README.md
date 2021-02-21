@@ -7,4 +7,4 @@ Recursive Implementation: [here](https://en.wikipedia.org/wiki/Maze_generation_a
 
 The game design ideia was inspired from the movie Maze Runner.
 
-![](images(Image1.png)
+![](images/Image1.png)
